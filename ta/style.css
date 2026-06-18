@@ -1,0 +1,16 @@
+@charset"utf-8";
+.left{
+    text-align: left;
+}
+.center{
+    text-align: center;
+}
+ .right{
+    text-align: right;
+ }
+ .justify{
+    text-align: justify;
+ }
+ div{
+    text-align: center;
+ }

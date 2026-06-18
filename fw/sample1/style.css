@@ -1,0 +1,11 @@
+@charset"uft-8";
+h1{
+    color: red;
+}
+h1 {
+  font-weight: normal;
+}
+
+span {
+  font-weight: bold;
+}
